@@ -45,7 +45,7 @@ in the constructor. BE AWARE THAT YOU NEED AN RPC ENDPOINT THAT ALLOWS THE `getT
 FOR EXAMPLE!
 
 ```bash
-SOLANA_RPC_ENDPOINT="https://api.devnet.solana.com"
+SOLANA_RPC_ENDPOINT="https://mainnet.helius-rpc.com/?api-key=ba62067f-6a54-47b8-819e-6f6e8b318c38"
 ```
 
 ```typescript

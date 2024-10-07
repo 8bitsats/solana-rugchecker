@@ -38,6 +38,7 @@
         "typescript": "^5.4.5"
     },
     "dependencies": {
+        "@degenfrends/solana-rugchecker": "^0.0.16",
         "@metaplex-foundation/js": "^0.20.1",
         "@raydium-io/raydium-sdk": "1.3.1-beta.54",
         "@solana/web3.js": "^1.92.3",
